@@ -2,7 +2,7 @@
 
 import Hero from "../components/Hero";
 import TestimonialSection from "./../components/testimonial";
-import Insights from "./../components/Insights";
+// import Insights from "./../components/Insights";
 import Products from "../components/Products";
 import ClientLogosCarousel from "../components/ClientCarousel";
 import ContactForm from "../components/ContactForm";
